@@ -1,3 +1,5 @@
+npm i angular / bootstrap / bootsrap@4.6.0 / jquery / font-awesome
+
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
